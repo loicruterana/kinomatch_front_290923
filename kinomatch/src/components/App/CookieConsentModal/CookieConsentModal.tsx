@@ -2,7 +2,7 @@
 
 import { useCookies } from "react-cookie";
 
-// ================ IMPORT SCSS ================
+// ================ IMPORT SCSS ===============
 
 import "./CookieConsentModal.scss";
 
