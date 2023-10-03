@@ -82,11 +82,11 @@ const PictureProfileModale = (
           data-profile='ghostfaceprofile'
         />
         <img
-          src='images/sisteractrofile.png'
-          alt='sisteractrofile'
+          src='images/sisteractprofile.png'
+          alt='sisteractprofile'
           className='pictureProfileModale-pic'
           onClick={handleClick}
-          data-profile='sisteractrofile'
+          data-profile='sisteractprofile'
         />
       </div>
       {/* <div className='pictureProfileModale__bottompart'>
