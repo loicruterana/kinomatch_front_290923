@@ -6,7 +6,7 @@ import { useCookies } from "react-cookie";
 
 import "./CookieConsentModal.scss";
 
-//* ================ COMPOSANT ================
+//* =============== COMPOSANT ================
 
 function CookieConsentModal() {
   const [cookies, setCookie] = useCookies(['cookieConsent']);
